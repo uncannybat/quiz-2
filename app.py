@@ -1,5 +1,5 @@
 
-pip install streamlit transformers
+import streamlit transformers
 
 import streamlit as st
 from transformers import pipeline
